@@ -1,0 +1,1 @@
+table{border-collapse:collapse}td:not(.CalendarDay),th:not(.CalendarDay){padding:12px 15px;text-align:left;border-bottom:1px solid #e1e1e1}td:first-child:not(.CalendarDay),th:first-child:not(.CalendarDay){padding-left:0}td:last-child:not(.CalendarDay),th:last-child:not(.CalendarDay){padding-right:0}
